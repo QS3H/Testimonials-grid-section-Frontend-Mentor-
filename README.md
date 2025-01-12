@@ -26,19 +26,19 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/Screenshot%202025-01-12%20111439.png)
+![](./images/Screenshot%202025-01-12%20111439.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Testimonials Grid Section](https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/)
+- Live Site URL: [Testimonials Grid Section](https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/ \_blank)
 
 ## My process
 
-- 1. I analysed the figma design provided by the challenge to see what the best CSS layout to be used and decided on CSS grid as it makes the most sense for the overall layout of the page
-- 2. I created the HTML markup using Semantic HTML like the main tag and the article tags.
-- 3. Started creating CSS Variables for general styling in the root element and did style resets for the page to avoid unexpected behavior then created the overall layout for page.
-- 4. Lastly worked on the media query to make the layout responsive for mobile.
+- I analysed the figma design provided by the challenge to see what the best CSS layout to be used and decided on CSS grid as it makes the most sense for the overall layout of the page
+- I created the HTML markup using Semantic HTML like the main tag and the article tags.
+- Started creating CSS Variables for general styling in the root element and did style resets for the page to avoid unexpected behavior then created the overall layout for page.
+- Lastly worked on the media query to make the layout responsive for mobile.
 
 ### Built with
 
