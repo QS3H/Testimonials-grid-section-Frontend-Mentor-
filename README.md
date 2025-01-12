@@ -26,14 +26,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%202025-01-12%20111439.png)
+(./images/Screenshot%202025-01-12%20111439.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/](https://your-live-site-url.com)
+- Live Site URL: [Testimonials Grid Section](https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/)
 
 ## My process
+
+- 1. I analysed the figma design provided by the challenge to see what the best CSS layout to be used and decided on CSS grid as it makes the most sense for the overall layout of the page
+- 2. I created the HTML markup using Semantic HTML like the main tag and the article tags.
+- 3. Started creating CSS Variables for general styling in the root element and did style resets for the page to avoid unexpected behavior then created the overall layout for page.
+- 4. Lastly worked on the media query to make the layout responsive for mobile.
 
 ### Built with
 
@@ -41,51 +46,23 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learned a lot more about CSS grid and practiced creating a more complex layout.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I will continue to focus on improving my skills in creating layouts using CSS grid and flex box.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [w3schools](https://www.w3schools.com/) - helped me remember some css advanced properties and syntax.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@QS3H](https://www.frontendmentor.io/profile/QS3H)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I got some inspiration from [Kevin Powell](https://www.youtube.com/@KevinPowell) on using semantic HTML and some css Pseudo-classes
