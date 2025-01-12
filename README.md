@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-using-css-grid-F0eT_Uhlnr)
 - Live Site URL: [Testimonials Grid Section](https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/)
 
 ## My process
