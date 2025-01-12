@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Testimonials Grid Section](https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/ \_blank)
+- Live Site URL: [Testimonials Grid Section](https://qs3h.github.io/Testimonials-grid-section-Frontend-Mentor-/)
 
 ## My process
 
